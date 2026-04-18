@@ -19,4 +19,4 @@ This project analyzes customer shopping behavior using Python, SQL, and Power BI
 
 ## 📷 Dashboard
 
-![Dashboard](images/dashboard.png)
+![Dashboard](images/Dashboard.png)
